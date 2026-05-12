@@ -104,7 +104,3 @@ Escriu `s` i prem Enter per confirmar, o qualsevol altra tecla per cancel·lar.
 
 
 
-
-## 📝 Llicència
-
-MIT License — lliure per a ús personal i comercial.
